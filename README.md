@@ -1,6 +1,8 @@
 # Demos: Creando ChatBots Inteligentes con NLP y Node.js by Glaucia Lemos
 
-[![CDC-logo-light-bg.png](https://i.postimg.cc/zfWRBVZK/CDC-logo-light-bg.png)](https://postimg.cc/DWvzpfzw)
+<p align="center">
+  <img src="https://i.postimg.cc/zfWRBVZK/CDC-logo-light-bg.png"/>  
+</p>
 
 Repositorio responsable de las demostraciones durante el evento **[Caribbean Developers Conference](https://cdc.dev/)**
 
