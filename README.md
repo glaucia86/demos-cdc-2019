@@ -16,19 +16,11 @@ Repositorio responsable de las demostraciones durante el evento **[Caribbean Dev
 - **[Teams - Download](https://products.office.com/pt-br/microsoft-teams/group-chat-software)**
 - **[Conta Azure - Conta Gratuita](https://azure.microsoft.com/free/?WT.mc_id=cdc-github-gllemos)**
 
-## Como ejecutar las demos?! 💥
+## Azure for Students ⭐️
 
-#### Demo: EchoBot - Bot Emulator v.4
+Si es estudiante en cualquier colegio o universidad, puede crear su cuenta de Azure for Students **[Azure for Students](https://azure.microsoft.com/es-es/free/students/?WT.mc_id=cdc-github-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/es-es/free/students/?WT.mc_id=cdc-github-gllemos)**
 
-Te puedes seguir con el ejemplo en el video **[AQUI](https://youtu.be/rGIpClavZKY)**
-
-```
-> cd echoBot
-```
-
-```
-> npm start
-```
+## Como ejecutar las demos?! 💻
 
 ### Demo: Pizzaria Italiana - Bot Emulator v.3
 
@@ -48,18 +40,30 @@ p.s.: hay que crear un modelo en LUIS y incluir tu enviroment adentro del archiv
 > LUIS_MODEL_URL=<tu-link-del-modelo-del-LUIS>
 ```
 
-## Links Importantes 🔥🔥🔥
+
+### Demo:Creando ChatBot con QnA Maker & Teams
+
+La demostración consiste en simplemente crear un ChatBot usando el Servicio Cognitivo **[QnA Maker](https://www.qnamaker.ai/)** integrado con **[LUIS](https://azure. microsoft.com/services/cognitive-services/language-understanding-intelligent-service/?WT.mc_id=cdc-github-gllemos)** y **[Teams](https://products.office.com/en- / microsoft-teams/group-chat-software)**.
+
+Si desea ver la demostración, simplemente acceda al enlace junto a **[AQUÍ](https://youtu.be/kLKYMIm_mFA)**
+
+Pronto escribiré una publicación explicando en detalle cómo seguir paso a paso para crear este ChatBot con QnA Maker & Teams.
+
+
+## Links Importantes 🔥
 
 Abajo teniemos inumeros documentaciones que te ayudarán a conocer más sobre los Servicios Cognitivos de Microsoft:
 
-- **[Microsoft Bot Framework](http://bit.ly/2JCRF5E)**
-- **[Documentación Bot Framework](https://aka.ms/documentacion-bot-framework)**
-- **[Documentación LUIS.ai](https://aka.ms/documentacion-luis-ai )**
-- **[Websitio LUIS.ai](https://luis.ai/home)**
-- **[Prueba Gratis Cognitive Services](https://aka.ms/prueba-gratis-cognitive-services)**
-- **[Prueba Gratis Azure A.I](https://aka.ms/prueba-gratis-azure-ai )**
-- **[Link Plática Grabada](https://lnkd.in/eYU_ycV)**
+- ✅ **[Slides - Creando ChatBots Inteligentes con NLP y Node.js](http://bit.ly/slides-botsbrasil2019)**
+- ✅ **[Tutoriales Crea Bots con QnA Maker](https://docs.microsoft.com/es-es/azure/cognitive-services/qnamaker/tutorials/create-publish-query-in-portal?WT.mc_id=cdc-github-gllemos)**
+- ✅ **[Tutoriais Crea Bots con LUIS](https://docs.microsoft.com/es-es/azure/cognitive-services/luis/get-started-portal-build-app?WT.mc_id=cdc-github-gllemos)**
+- ✅ **[E-book Grátis: Crea tu primer Bot inteligente con Microsoft AI](https://azure.microsoft.com/es-es/resources/create-your-first-intelligent-bot-with-microsoft-ai-pt-br/?WT.mc_id=cdc-github-gllemos)**
+- ✅ **[Prueba Grátis - Cognitive Services](https://azure.microsoft.com/es-es/services/cognitive-services/?WT.mc_id=cdc-github-gllemos)**
+- ✅ **[Prueba Grátis A.I](https://azure.microsoft.com/free/ai/?WT.mc_id=cdc-github-gllemos)**
+- ✅ **[Bot Framework](https://docs.microsoft.com/es-es/azure/bot-service/?view=azure-bot-service-4.0&?WT.mc_id=cdc-github-gllemos)**
+- ✅ **[A.I School](https://aischool.microsoft.com/en-us/home)**
+- ✅ **[Curso Grátis - Ingeniero de I.A](https://docs.microsoft.com/es-es/learn/browse/?roles=ai-engineer&WT.mc_id=cdc-github-gllemos)**
 
-## Tiene Dudas? ❗️❗️❗️
+## Tiene Dudas? ❗️
 
-Si tienes alguna duda referente al código hecho o para configurar el ambiente de desarrollo, basta crear una **[ISSUE AQUI](https://github.com/glaucia86/demo-data-day-nlp-node/issues)** en GitHub que te responderé muy pronto. ❤️ ❤️ ❤️ 😊
+Si tienes alguna duda referente al código hecho o para configurar el ambiente de desarrollo, basta crear una **[ISSUE AQUI](https://github.com/glaucia86/demos-cdc-2019/issues)** en GitHub que te responderé muy pronto. ❤️ ❤️ ❤️ 😊
