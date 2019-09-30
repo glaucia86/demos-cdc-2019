@@ -55,7 +55,7 @@ Pronto escribiré una publicación explicando en detalle cómo seguir paso a pas
 
 Abajo teniemos inumeros documentaciones que te ayudarán a conocer más sobre los Servicios Cognitivos de Microsoft:
 
-- ✅ **[Slides - Creando ChatBots Inteligentes con NLP y Node.js](http://bit.ly/slides-botsbrasil2019)**
+- ✅ **[Slides - Creando ChatBots Inteligentes con NLP y Node.js](https://aka.ms/AA66hl9)**
 - ✅ **[Tutoriales - Crea Bots con QnA Maker](https://docs.microsoft.com/es-es/azure/cognitive-services/qnamaker/tutorials/create-publish-query-in-portal?WT.mc_id=cdc-github-gllemos)**
 - ✅ **[Tutoriales - Crea Bots con LUIS](https://docs.microsoft.com/es-es/azure/cognitive-services/luis/get-started-portal-build-app?WT.mc_id=cdc-github-gllemos)**
 - ✅ **[E-book Grátis: Crea tu primer Bot inteligente con Microsoft AI](https://azure.microsoft.com/es-es/resources/create-your-first-intelligent-bot-with-microsoft-ai-pt-br/?WT.mc_id=cdc-github-gllemos)**
