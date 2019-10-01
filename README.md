@@ -42,7 +42,6 @@ p.s.: hay que crear un modelo en LUIS y incluir tu enviroment adentro del archiv
 > LUIS_MODEL_URL=<tu-link-del-modelo-del-LUIS>
 ```
 
-
 ### Demo:Creando ChatBot con QnA Maker & Teams
 
 La demostración consiste en simplemente crear un ChatBot usando el Servicio Cognitivo **[QnA Maker](https://www.qnamaker.ai/)** integrado con **[LUIS](https://azure.microsoft.com/services/cognitive-services/language-understanding-intelligent-service/?WT.mc_id=cdc-github-gllemos)** y **[Teams](https://teams.microsoft.com/downloads)**.
