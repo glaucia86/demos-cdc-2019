@@ -12,7 +12,7 @@ Repositorio responsable de las demostraciones durante el evento **[Caribbean Dev
 - **[Bot Framework Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases)**
 - **[Luis.ai](https://luis.ai/home)**
 - **[Yeoman.io](https://yeoman.io/)**
-- **[Visual Studio Code](http://bit.ly/2HM1c7x)**
+- **[Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=cdc-github-gllemos)**
 - **[QnA Maker](https://docs.microsoft.com/azure/cognitive-services/qnamaker/overview/overview?WT.mc_id=cdc-github-gllemos)**
 - **[LUIS](https://docs.microsoft.com/azure/cognitive-services/luis/what-is-luis?WT.mc_id=cdc-github-gllemos)**
 - **[Teams - Download](https://products.office.com/pt-br/microsoft-teams/group-chat-software)**
