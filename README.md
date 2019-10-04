@@ -62,7 +62,7 @@ Abajo teniemos inumeros documentaciones que te ayudarán a conocer más sobre lo
 - ✅ **[Prueba Grátis - Cognitive Services](https://azure.microsoft.com/es-es/services/cognitive-services/?WT.mc_id=cdc-github-gllemos)**
 - ✅ **[Prueba Grátis A.I](https://azure.microsoft.com/free/ai/?WT.mc_id=cdc-github-gllemos)**
 - ✅ **[Bot Framework](https://docs.microsoft.com/es-es/azure/bot-service/?view=azure-bot-service-4.0&?WT.mc_id=cdc-github-gllemos)**
-- ✅ **[A.I School](https://aischool.microsoft.com/en-us/home)**
+- ✅ **[A.I School](https://aischool.microsoft.com/home?WT.mc_id=cdc-github-gllemos)**
 - ✅ **[Curso Grátis - Ingeniero de I.A](https://docs.microsoft.com/es-es/learn/browse/?roles=ai-engineer&WT.mc_id=cdc-github-gllemos)**
 
 ## Tiene Dudas? ❗️
